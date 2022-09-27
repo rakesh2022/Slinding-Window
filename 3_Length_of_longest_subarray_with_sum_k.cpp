@@ -1,4 +1,5 @@
 https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1
+// same as total subarray with sum equal to k
 
 class Solution{
     public:
