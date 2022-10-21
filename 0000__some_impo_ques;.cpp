@@ -1,5 +1,5 @@
 https://leetcode.com/problems/frequency-of-the-most-frequent-element/discuss/1175088/C%2B%2B-Maximum-Sliding-Window-Cheatsheet-Template!
-
+//  https://leetcode.com/problems/replace-the-substring-for-balanced-string/discuss/409090/C%2B%2B-Sliding-Window
 
 //  https://leetcode.com/contest/weekly-contest-315/problems/count-subarrays-with-fixed-bounds/
 
@@ -18,3 +18,4 @@ public:
         return ans;
     }
 };
+
